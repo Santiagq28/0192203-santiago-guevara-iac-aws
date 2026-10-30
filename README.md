@@ -1,4 +1,4 @@
-# CODIGO-nombre-apellido-iac-aws
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/60a200d3-5439-4d21-9c8d-d8405013ba56" /># 0192203-Santiago-Guevara-iac-aws
 
 Proyecto del taller de Cloud Computing (Ingeniería de Sistemas – UFPSO).
 
@@ -15,12 +15,12 @@ personalizada. La infraestructura está definida en `templates/template.yaml`
 
 ## Estudiante
 
-- Nombre: TU NOMBRE COMPLETO
-- Código: TU_CODIGO
+- Nombre: Santiago Alberto Guevara Quintero
+- Código: 0192203
 - Docente: Wilder Andrés Duarte Neira
 
 ## Sitio web desplegado
 
-http://IP_PUBLICA
+http://34.202.236.126
 
 (La IP cambia si la instancia se vuelve a crear.)
