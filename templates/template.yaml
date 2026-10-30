@@ -48,7 +48,7 @@ Resources:
           <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <title>TU NOMBRE | IaC AWS</title>
+            <title>SANTIAGO GUEVARA | IaC AWS</title>
             <style>
               * { box-sizing: border-box; }
               body { margin: 0; font-family: 'Segoe UI', Arial, sans-serif;
@@ -72,7 +72,7 @@ Resources:
               <span class="tag">CLOUD COMPUTING · UFPSO</span>
               <h1>${InstanceDescription} 👏</h1>
               <h2>Hola desde CloudFormation con GitHub 🚀</h2>
-              <p><strong>TU NOMBRE COMPLETO</strong> · Código TU_CODIGO<br>
+              <p><strong>SANTIAGO ALBERTO GUEVARA QUINTERO</strong> · Código 0192203<br>
                  Ingeniería de Sistemas · Universidad Francisco de Paula Santander Ocaña</p>
               <p>Esta página fue publicada sin entrar al servidor: el repositorio en GitHub
                  describe la infraestructura y GitHub Actions la crea en AWS.</p>
@@ -81,7 +81,7 @@ Resources:
                 <li>Automatización: GitHub Actions</li>
                 <li>Servidor: EC2 t3.micro con Apache</li>
               </ul>
-              <p><a href="https://github.com/TU_USUARIO/TU_REPOSITORIO">Ver el repositorio del proyecto</a></p>
+              <p><a href="https://github.com/Santiagq28/0192203-santiago-guevara-iac-aws">Ver el repositorio del proyecto</a></p>
               <footer>Docente: Wilder Andrés Duarte Neira</footer>
             </div>
           </body>
